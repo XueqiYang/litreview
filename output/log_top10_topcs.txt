@@ -1,0 +1,20 @@
+Topic: 0 
+Words: 0.105*"verif" + 0.090*"valid" + 0.088*"base" + 0.083*"knowledg" + 0.055*"expert" + 0.043*"softwar" + 0.034*"test" + 0.032*"system" + 0.032*"present" + 0.031*"case"
+Topic: 1 
+Words: 0.108*"system" + 0.081*"valid" + 0.069*"verif" + 0.057*"requir" + 0.056*"test" + 0.051*"softwar" + 0.031*"base" + 0.029*"data" + 0.026*"learn" + 0.026*"expert"
+Topic: 2 
+Words: 0.223*"test" + 0.056*"softwar" + 0.047*"case" + 0.035*"system" + 0.028*"autonom" + 0.027*"approach" + 0.025*"base" + 0.024*"learn" + 0.023*"generat" + 0.022*"model"
+Topic: 3 
+Words: 0.015*"base" + 0.015*"system" + 0.015*"applic" + 0.015*"valid" + 0.015*"expert" + 0.015*"verif" + 0.015*"softwar" + 0.015*"test" + 0.015*"ensur" + 0.015*"method"
+Topic: 4 
+Words: 0.140*"model" + 0.091*"simul" + 0.080*"verif" + 0.070*"valid" + 0.062*"method" + 0.036*"autonom" + 0.030*"base" + 0.029*"develop" + 0.027*"approach" + 0.027*"drive"
+Topic: 5 
+Words: 0.102*"base" + 0.073*"valid" + 0.062*"critic" + 0.060*"design" + 0.056*"formal" + 0.048*"model" + 0.033*"analysi" + 0.030*"system" + 0.030*"verif" + 0.026*"method"
+Topic: 6 
+Words: 0.122*"tool" + 0.096*"verif" + 0.074*"valid" + 0.070*"model" + 0.034*"develop" + 0.033*"softwar" + 0.032*"learn" + 0.031*"formal" + 0.030*"analysi" + 0.030*"machin"
+Topic: 7 
+Words: 0.101*"knowledg" + 0.092*"tool" + 0.066*"system" + 0.066*"test" + 0.062*"develop" + 0.053*"valid" + 0.051*"base" + 0.046*"automat" + 0.039*"applic" + 0.039*"verif"
+Topic: 8 
+Words: 0.078*"valid" + 0.065*"intellig" + 0.058*"methodolog" + 0.057*"verif" + 0.055*"system" + 0.047*"design" + 0.045*"time" + 0.043*"develop" + 0.037*"test" + 0.028*"import"
+Topic: 9 
+Words: 0.290*"valid" + 0.110*"depend" + 0.090*"system" + 0.048*"knowledg" + 0.045*"increas" + 0.044*"test" + 0.035*"softwar" + 0.032*"expert" + 0.027*"critic" + 0.019*"base"
