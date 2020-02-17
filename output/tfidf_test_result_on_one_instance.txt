@@ -1,0 +1,5 @@
+Performance evaluation by classifying sample document using LDA TF-IDF model.
+Score: 0.4980107247829437	 
+Topic: 0.051*"test" + 0.042*"knowledg" + 0.041*"tool" + 0.038*"learn" + 0.033*"autonom" + 0.032*"automat" + 0.029*"generat" + 0.029*"case" + 0.029*"softwar" + 0.028*"approach"
+Score: 0.4871724843978882	 
+Topic: 0.043*"test" + 0.038*"simul" + 0.036*"intellig" + 0.034*"system" + 0.029*"domain" + 0.028*"method" + 0.028*"qualiti" + 0.027*"expert" + 0.027*"autonom" + 0.026*"methodolog"
