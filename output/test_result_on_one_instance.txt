@@ -1,0 +1,8 @@
+Score: 0.4797241687774658	 
+Topic: 0.223*"test" + 0.056*"softwar" + 0.047*"case" + 0.035*"system" + 0.028*"autonom" + 0.027*"approach" + 0.025*"base" + 0.024*"learn" + 0.023*"generat" + 0.022*"model"
+Score: 0.2303401529788971	 
+Topic: 0.140*"model" + 0.091*"simul" + 0.080*"verif" + 0.070*"valid" + 0.062*"method" + 0.036*"autonom" + 0.030*"base" + 0.029*"develop" + 0.027*"approach" + 0.027*"drive"
+Score: 0.16493895649909973	 
+Topic: 0.078*"valid" + 0.065*"intellig" + 0.058*"methodolog" + 0.057*"verif" + 0.055*"system" + 0.047*"design" + 0.045*"time" + 0.043*"develop" + 0.037*"test" + 0.028*"import"
+Score: 0.11388330906629562	 
+Topic: 0.105*"verif" + 0.090*"valid" + 0.088*"base" + 0.083*"knowledg" + 0.055*"expert" + 0.043*"softwar" + 0.034*"test" + 0.032*"system" + 0.032*"present" + 0.031*"case"
